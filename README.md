@@ -1,2 +1,4 @@
 Repo for my undergrad projects
- [] updates
+### TODO 
+ - [ ] PDE
+ - [ ] AMATH301
